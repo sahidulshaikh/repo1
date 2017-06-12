@@ -1,3 +1,4 @@
 conflict b3 rebase
 rebase master
 rebase conflict
+master conflict
